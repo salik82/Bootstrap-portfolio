@@ -1,2 +1,2 @@
-# portfolioBootstrap
-Building a basic portfolio using bootstrap
+# Bootstrap-portfolio
+Building a portfolio using bootstrap
